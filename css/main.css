@@ -1,3 +1,85 @@
+body {
+  font-family: "lato"; }
 
+.bg-gray {
+  background-color: #F6F6F5; }
+
+.color {
+  color: #00B3F7; }
+
+.img-cel {
+  width: 100%;
+  max-width: 400px; }
+
+.media-body {
+  font-size: 14px; }
+
+.bg-dark {
+  background-color: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 435px; }
+
+.performance {
+  margin: 7%; }
+
+footer {
+  padding: 5%; }
+
+.picfondo {
+  background-image: url(../images/1920x665-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 435px; }
+
+.titlebig {
+  color: #FFFFFF;
+  line-height: 1.5; }
+
+.sistem {
+  margin: 2% 0; }
+
+.btn {
+  border-radius: 20px;
+  padding: 0 20px;
+  display: inline-block;
+  margin-left: 2%; }
+  .btn:hover {
+    background-color: transparent;
+    border: solid 1px #00B3F7; }
+
+.btn-primary {
+  background-color: #00B3F7;
+  font-weight: bolder;
+  color: #FFFFFF; }
+  .btn-primary a {
+    color: #FFFFFF; }
+    .btn-primary a:hover {
+      color: #00B3F7; }
+  .btn-primary:hover {
+    background-color: transparent;
+    border: solid 1px #00B3F7;
+    color: #00B3F7; }
+
+.btn-default {
+  background-color: transparent;
+  color: #00B3F7;
+  border: solid 1px #00B3F7; }
+  .btn-default:hover {
+    background-color: #00B3F7;
+    color: #FFFFFF;
+    border: solid 1px #00B3F7; }
+
+.btn-floating {
+  background-color: transparent;
+  border: solid 1px #00B3F7; }
+  .btn-floating .fa {
+    color: #00B3F7; }
+    .btn-floating .fa:hover {
+      color: #FFFFFF; }
+  .btn-floating:hover {
+    background-color: #00B3F7;
+    color: #FFFFFF;
+    border: solid 1px #00B3F7; }
 
 /*# sourceMappingURL=main.css.map */
